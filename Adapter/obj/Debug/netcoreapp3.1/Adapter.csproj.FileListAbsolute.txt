@@ -1,0 +1,14 @@
+D:\hocTap\2122HK2\.NET\Demo\DemoStructuralDesignPattern\Adapter\bin\Debug\netcoreapp3.1\Adapter.exe
+D:\hocTap\2122HK2\.NET\Demo\DemoStructuralDesignPattern\Adapter\bin\Debug\netcoreapp3.1\Adapter.deps.json
+D:\hocTap\2122HK2\.NET\Demo\DemoStructuralDesignPattern\Adapter\bin\Debug\netcoreapp3.1\Adapter.runtimeconfig.json
+D:\hocTap\2122HK2\.NET\Demo\DemoStructuralDesignPattern\Adapter\bin\Debug\netcoreapp3.1\Adapter.runtimeconfig.dev.json
+D:\hocTap\2122HK2\.NET\Demo\DemoStructuralDesignPattern\Adapter\bin\Debug\netcoreapp3.1\Adapter.dll
+D:\hocTap\2122HK2\.NET\Demo\DemoStructuralDesignPattern\Adapter\bin\Debug\netcoreapp3.1\Adapter.pdb
+D:\hocTap\2122HK2\.NET\Demo\DemoStructuralDesignPattern\Adapter\obj\Debug\netcoreapp3.1\Adapter.csproj.AssemblyReference.cache
+D:\hocTap\2122HK2\.NET\Demo\DemoStructuralDesignPattern\Adapter\obj\Debug\netcoreapp3.1\Adapter.GeneratedMSBuildEditorConfig.editorconfig
+D:\hocTap\2122HK2\.NET\Demo\DemoStructuralDesignPattern\Adapter\obj\Debug\netcoreapp3.1\Adapter.AssemblyInfoInputs.cache
+D:\hocTap\2122HK2\.NET\Demo\DemoStructuralDesignPattern\Adapter\obj\Debug\netcoreapp3.1\Adapter.AssemblyInfo.cs
+D:\hocTap\2122HK2\.NET\Demo\DemoStructuralDesignPattern\Adapter\obj\Debug\netcoreapp3.1\Adapter.csproj.CoreCompileInputs.cache
+D:\hocTap\2122HK2\.NET\Demo\DemoStructuralDesignPattern\Adapter\obj\Debug\netcoreapp3.1\Adapter.dll
+D:\hocTap\2122HK2\.NET\Demo\DemoStructuralDesignPattern\Adapter\obj\Debug\netcoreapp3.1\Adapter.pdb
+D:\hocTap\2122HK2\.NET\Demo\DemoStructuralDesignPattern\Adapter\obj\Debug\netcoreapp3.1\Adapter.genruntimeconfig.cache
