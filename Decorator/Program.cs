@@ -16,7 +16,7 @@ namespace Decorator
             store.MakeCake(myCake);
             Console.Write("AFTER DECORATE CHOCOLATE: ");
             ChocolateCake finalCake = new ChocolateCake(myCake);
-            store.MakeCake(finalCake);
+            store.MakeCake(finalCake); 
         }
     }
     public abstract class Product

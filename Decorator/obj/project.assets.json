@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\hocTap\\2122HK2\\.NET\\Demo\\DemoStructuralDesignPattern\\Decorator\\Decorator.csproj",
+      "projectUniqueName": "D:\\hocTap\\2122HK2\\Mau Thiet Ke\\DemoDesignPattern\\Decorator\\Decorator.csproj",
       "projectName": "Decorator",
-      "projectPath": "D:\\hocTap\\2122HK2\\.NET\\Demo\\DemoStructuralDesignPattern\\Decorator\\Decorator.csproj",
+      "projectPath": "D:\\hocTap\\2122HK2\\Mau Thiet Ke\\DemoDesignPattern\\Decorator\\Decorator.csproj",
       "packagesPath": "C:\\Users\\maima\\.nuget\\packages\\",
-      "outputPath": "D:\\hocTap\\2122HK2\\.NET\\Demo\\DemoStructuralDesignPattern\\Decorator\\obj\\",
+      "outputPath": "D:\\hocTap\\2122HK2\\Mau Thiet Ke\\DemoDesignPattern\\Decorator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\maima\\AppData\\Roaming\\NuGet\\NuGet.Config",

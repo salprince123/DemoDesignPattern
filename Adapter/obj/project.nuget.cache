@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QpQLRzt0yNI9LaAg0qb7JBD0qIqmxHBbMDSnkvlBo+XCD6KsFKvhTelgbKdjpw222s9BC6Okra5hgQzc9lDleg==",
+  "dgSpecHash": "SHJi+0oq7AgelNfoC0JwYz/xetuVVvzsoaGawyCHTnpLfxBFmfH9rkRCzi/syOPMvyGMdGhszPdgkppmKlHi0w==",
   "success": true,
-  "projectFilePath": "D:\\hocTap\\2122HK2\\.NET\\Demo\\DemoStructuralDesignPattern\\Adapter\\Adapter.csproj",
+  "projectFilePath": "D:\\hocTap\\2122HK2\\Mau Thiet Ke\\DemoDesignPattern\\Adapter\\Adapter.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TvUFaLuhmAkWNa9/WOdOQl/veqrXyuX+dZP3FA4Kd5H9EShRxu9BWYB8Q2kei24jFC6onn8Fj+gOgVxTNuJizA==",
+  "dgSpecHash": "+TdazgkqOD+heWI6pj0M7Xvc3+4lR1mdpi/K10/XbxSl+IzOyNXVvbKmj5PWgxnUzC/bB29uei9S5Q3W9ZD2Rg==",
   "success": true,
-  "projectFilePath": "D:\\hocTap\\2122HK2\\.NET\\Demo\\DemoStructuralDesignPattern\\Decorator\\Decorator.csproj",
+  "projectFilePath": "D:\\hocTap\\2122HK2\\Mau Thiet Ke\\DemoDesignPattern\\Decorator\\Decorator.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

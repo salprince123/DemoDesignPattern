@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\hocTap\\2122HK2\\.NET\\Demo\\DemoStructuralDesignPattern\\Adapter\\Adapter.csproj": {}
+    "D:\\hocTap\\2122HK2\\Mau Thiet Ke\\DemoDesignPattern\\Adapter\\Adapter.csproj": {}
   },
   "projects": {
-    "D:\\hocTap\\2122HK2\\.NET\\Demo\\DemoStructuralDesignPattern\\Adapter\\Adapter.csproj": {
+    "D:\\hocTap\\2122HK2\\Mau Thiet Ke\\DemoDesignPattern\\Adapter\\Adapter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\hocTap\\2122HK2\\.NET\\Demo\\DemoStructuralDesignPattern\\Adapter\\Adapter.csproj",
+        "projectUniqueName": "D:\\hocTap\\2122HK2\\Mau Thiet Ke\\DemoDesignPattern\\Adapter\\Adapter.csproj",
         "projectName": "Adapter",
-        "projectPath": "D:\\hocTap\\2122HK2\\.NET\\Demo\\DemoStructuralDesignPattern\\Adapter\\Adapter.csproj",
+        "projectPath": "D:\\hocTap\\2122HK2\\Mau Thiet Ke\\DemoDesignPattern\\Adapter\\Adapter.csproj",
         "packagesPath": "C:\\Users\\maima\\.nuget\\packages\\",
-        "outputPath": "D:\\hocTap\\2122HK2\\.NET\\Demo\\DemoStructuralDesignPattern\\Adapter\\obj\\",
+        "outputPath": "D:\\hocTap\\2122HK2\\Mau Thiet Ke\\DemoDesignPattern\\Adapter\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\maima\\AppData\\Roaming\\NuGet\\NuGet.Config",
